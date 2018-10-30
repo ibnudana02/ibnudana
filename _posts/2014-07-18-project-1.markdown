@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2017-02-22
+img: bootleaf-faste.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Februari 2017
+client: Entrance Examination Participant
+category: WebGIS
+description: Make it easy to find buildings and exam rooms for the entrance examination participants. On this website, you can filter buildings, rooms every floor for search spesific building and room. This WebGIS is development from repository <a href="https://github.com/bmcbride">Bryan McBride - Bootleaf</a>, that changed location to Building campus State Islamic University of Sulthan Syarif Kasim Riau. Using Twitter Bootstrap and LeafletJS.  
 
 ---
