@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Februari 2017
 client: Entrance Examination Participants
 category: Web Geographic Information System 
-description: Make it easy fo find buildings and rooms for entrance participants to examination. On this website you can filter buildings and rooms to search spesific room. This website is forked by <a href="https://github.com/bmcbride">Bryan McBride - Bootleaf</a>.
+description: Make it easy fo find buildings and rooms for entrance participants to examination. On this website you can filter buildings and rooms to search spesific room. This website is forked by <a href="https://github.com/bmcbride/bootleaf">Bryan McBride - Bootleaf</a>.
 
 ---
